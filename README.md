@@ -1,9 +1,10 @@
 <h1 align="center" style="color:#8F4B90; font-size:100px;">
-  ✦ Welcome to ✦
+  😎  <strong>Hi! Nice to see you</strong>
   <br>
-  <strong>SUNO Github</strong>
 </h1>
 
+<p align="center">Welcome to my page! 
+I'm SUNO, Backend developer from South kroea! </p>
 
 ---
 
