@@ -4,11 +4,13 @@
   <strong>SUNO Github</strong>
 </h1>
 
+
 ---
 
 ## <p align="center">🧑‍💻 About Me</p>
 <p align="center">
-🔥 <strong>Backend Developer SUNO</strong><br>
+💜 <strong>MBTI: ESFJ</strong><br>
+🔥 Backend Developer SUNO<br>
 🐍 Focus on Python-based server development<br>
 🧱 Prefer structured, scalable server design<br>
 ✨ A developer who constantly thinks and grows
@@ -22,6 +24,7 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 ---
@@ -37,13 +40,11 @@
 ## <p align="center">🚀 Featured Projects</p>
 
 <p align="center">
-  <strong>🧩 Project 1 — Python Backend API</strong><br>
-  📌 Working hard...
+  <strong>🧩 Project 1 — 📌 Working hard...
 </p>
 
 <p align="center">
-  <strong>🐍 Project 2 — FastAPI · Flask TEST</strong><br>
-  📌 Working hard...
+  <strong>🐍 Project 2 — 📌 Working hard...
 </p>
 
 <!-- 숨긴 항목들 -->
